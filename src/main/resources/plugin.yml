@@ -1,0 +1,4 @@
+name: Drugs
+version: 1.0-SNAPSHOT
+author: bre w
+main: me.brew.drugs.DrugsPlugin
